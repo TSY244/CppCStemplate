@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CppInternalExam"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CppInternalExam2">
+				<Option output="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/CppInternalExam2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 CppInternalExam2"/>
+					<CompileFile command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CppInternalExam2/fast">
+				<Option output="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/CppInternalExam2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 CppInternalExam2/fast"/>
+					<CompileFile command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CppInternalExam">
+				<Option output="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/CppInternalExam" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 CppInternalExam"/>
+					<CompileFile command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CppInternalExam/fast">
+				<Option output="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/CppInternalExam" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 CppInternalExam/fast"/>
+					<CompileFile command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j20 -f &quot;/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/ClientMain.cpp">
+			<Option target="CppInternalExam2"/>
+		</Unit>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/inc/Client.hpp">
+			<Option target="CppInternalExam2"/>
+		</Unit>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/inc/ConsoleLog.hpp">
+			<Option target="CppInternalExam"/>
+		</Unit>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/inc/RecvAndSend.hpp">
+			<Option target="CppInternalExam2"/>
+			<Option target="CppInternalExam"/>
+		</Unit>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/inc/Server.hpp">
+			<Option target="CppInternalExam"/>
+		</Unit>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/inc/ThreadPool.h">
+			<Option target="CppInternalExam"/>
+		</Unit>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/main.cpp">
+			<Option target="CppInternalExam"/>
+		</Unit>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/src/Client.cpp">
+			<Option target="CppInternalExam2"/>
+		</Unit>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/src/RecvAndSend.cpp">
+			<Option target="CppInternalExam2"/>
+			<Option target="CppInternalExam"/>
+		</Unit>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/src/Server.cpp">
+			<Option target="CppInternalExam"/>
+		</Unit>
+		<Unit filename="/mnt/d/code/clion/C++/CppInternalExam/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

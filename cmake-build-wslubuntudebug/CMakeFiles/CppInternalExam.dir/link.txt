@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CppInternalExam.dir/main.cpp.o CMakeFiles/CppInternalExam.dir/src/Server.cpp.o CMakeFiles/CppInternalExam.dir/src/RecvAndSend.cpp.o -o CppInternalExam  -lpthread 

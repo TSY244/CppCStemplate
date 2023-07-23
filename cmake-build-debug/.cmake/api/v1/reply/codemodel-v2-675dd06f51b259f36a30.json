@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CppInternalExam",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CppInternalExam::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CppInternalExam-Debug-4c18577fa7d6dd1ab661.json",
+					"name" : "CppInternalExam",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CppInternalExam2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CppInternalExam2-Debug-4e92bd24f8ad3e2b7fc6.json",
+					"name" : "CppInternalExam2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/code/clion/C++/CppInternalExam/cmake-build-debug",
+		"source" : "D:/code/clion/C++/CppInternalExam"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,4 @@
+/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/CMakeFiles/CppInternalExam2.dir
+/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/CMakeFiles/CppInternalExam.dir
+/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/CMakeFiles/edit_cache.dir
+/mnt/d/code/clion/C++/CppInternalExam/cmake-build-wslubuntudebug/CMakeFiles/rebuild_cache.dir
